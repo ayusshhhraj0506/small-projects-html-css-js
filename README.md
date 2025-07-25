@@ -44,21 +44,20 @@ This repository contains 50+ small and creative web projects built using **HTML*
 | 33  | Password Generator          | [Live](http://127.0.0.1:3000/password_generator/index.html)          |
 | 34  | Password Strength Backround | [Live](http://127.0.0.1:3000/passwordstrength_background/index.html) |
 | 35  | Pokedex                     | [Live](http://127.0.0.1:3000/pokedex/index.html)                     |
-
-| 36 | Progress Steps | [Live](http://127.0.0.1:3000/progress_steps/index.html) |
-| 37 | Quiz App | [Live](http://127.0.0.1:3000/quiz_app/index.html) |
-| 38 | Random Choice Picker | [Live](http://127.0.0.1:3000/random_choice_picker/index.html) |
-| 39 | Random Image Feed | [Live](http://127.0.0.1:3000/randomimage_generator/index.html) |
-| 40 | Rotating Navigation | [Live](http://127.0.0.1:3000/rotating_navigation/index.html) |
-| 41 | Scrolling Animation | [Live](http://127.0.0.1:3000/scrolling_animation/index.html) |
-| 42 | Sound Board | [Live](http://127.0.0.1:3000/sound_board/index.html) |
-| 43 | Split Landing Page | [Live](http://127.0.0.1:3000/split_landing_page/index.html) |
-| 44 | Sticky Navigation | [Live](http://127.0.0.1:3000/sticky_navbar/index.html) |
-| 45 | Testimonial Box | [Live](http://127.0.0.1:3000/testimonialbox_switcher/index.html) |
-| 46 | Theme Clock | [Live](http://127.0.0.1:3000/theme_clock/index.html) |
-| 47 | Toast Notification | [Live](http://127.0.0.1:3000/toast_notification/index.html) |
-| 48 | Todo List | [Live](http://127.0.0.1:3000/todo_list/index.html) |
-| 49 | Verify Account | [Live](http://127.0.0.1:3000/verifyacc_ui/index.html) |
+| 36  | Progress Steps              | [Live](http://127.0.0.1:3000/progress_steps/index.html)              |
+| 37  | Quiz App                    | [Live](http://127.0.0.1:3000/quiz_app/index.html)                    |
+| 38  | Random Choice Picker        | [Live](http://127.0.0.1:3000/random_choice_picker/index.html)        |
+| 39  | Random Image Feed           | [Live](http://127.0.0.1:3000/randomimage_generator/index.html)       |
+| 40  | Rotating Navigation         | [Live](http://127.0.0.1:3000/rotating_navigation/index.html)         |
+| 41  | Scrolling Animation         | [Live](http://127.0.0.1:3000/scrolling_animation/index.html)         |
+| 42  | Sound Board                 | [Live](http://127.0.0.1:3000/sound_board/index.html)                 |
+| 43  | Split Landing Page          | [Live](http://127.0.0.1:3000/split_landing_page/index.html)          |
+| 44  | Sticky Navigation           | [Live](http://127.0.0.1:3000/sticky_navbar/index.html)               |
+| 45  | Testimonial Box             | [Live](http://127.0.0.1:3000/testimonialbox_switcher/index.html)     |
+| 46  | Theme Clock                 | [Live](http://127.0.0.1:3000/theme_clock/index.html)                 |
+| 47  | Toast Notification          | [Live](http://127.0.0.1:3000/toast_notification/index.html)          |
+| 48  | Todo List                   | [Live](http://127.0.0.1:3000/todo_list/index.html)                   |
+| 49  | Verify Account              | [Live](http://127.0.0.1:3000/verifyacc_ui/index.html)                |
 
 > 📝 Note: Replace `project-folder-name` with the actual folder name of each project inside the repo.
 
