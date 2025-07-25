@@ -59,8 +59,6 @@ This repository contains 50+ small and creative web projects built using **HTML*
 | 48  | Todo List                   | [Live](http://127.0.0.1:3000/todo_list/index.html)                   |
 | 49  | Verify Account              | [Live](http://127.0.0.1:3000/verifyacc_ui/index.html)                |
 
-> 📝 Note: Replace `project-folder-name` with the actual folder name of each project inside the repo.
-
 ---
 
 ## 🧠 What You'll Learn
